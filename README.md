@@ -4,7 +4,7 @@
 
 ### Estudante de Desenvolvimento Web e Cibersegurança
 
-Escola do Futuro | Web Development | Cybersecurity | Tecnologia com identidade
+Escola do Futuro | Web Development | Cybersecurity | UX/UI | Tecnologia com identidade
 
 </div>
 
@@ -24,6 +24,7 @@ Minha estética tem um toque mais *dark/gótico*, mas meu objetivo é bem claro:
 
 - Desenvolvimento Web
 - HTML, CSS e JavaScript
+- UX/UI Design
 - Lógica de programação
 - Fundamentos de Cibersegurança
 - Boas práticas para criação de sites seguros
@@ -38,6 +39,7 @@ Minha estética tem um toque mais *dark/gótico*, mas meu objetivo é bem claro:
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
@@ -49,6 +51,7 @@ Minha estética tem um toque mais *dark/gótico*, mas meu objetivo é bem claro:
 ## 🌙 Áreas de interesse
 
 - Criação de sites modernos e responsivos
+- UX/UI Design
 - Segurança em aplicações web
 - Proteção de dados e privacidade digital
 - Interfaces com personalidade
@@ -71,9 +74,9 @@ Minha estética tem um toque mais *dark/gótico*, mas meu objetivo é bem claro:
 
 <div align="center">
 
-![Tayla GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayllaefg-netizen&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=ffffff)
+![Tayla GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayllaefg-netizen&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tayllaefg-netizen&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ffffff)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tayllaefg-netizen&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -84,6 +87,7 @@ Minha estética tem um toque mais *dark/gótico*, mas meu objetivo é bem claro:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-tayllaefg--netizen-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayllaefg-netizen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayla-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/SEU-LINKEDIN/)
 
 </div>
 
