@@ -10,7 +10,7 @@ Escola do Futuro | Web Development | Cybersecurity | UX/UI | Tecnologia com iden
 
 ---
 
-## 🕯️ Sobre mim
+## Sobre mim
 
 Olá! Eu sou a *Tayla, estudante da **Escola do Futuro, atualmente me aprofundando em **Desenvolvimento Web* e *Cibersegurança*.
 
@@ -97,6 +97,6 @@ Minha estética tem um toque mais *dark/gótico*, mas meu objetivo é bem claro:
 
 ### "Aprendendo, criando e protegendo o mundo digital."
 
-🖤
+
 
 </div>
