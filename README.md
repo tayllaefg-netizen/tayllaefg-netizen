@@ -16,8 +16,6 @@ Olá! Eu sou a *Tayla, estudante da **Escola do Futuro, atualmente me aprofundan
 
 Tenho interesse em criar projetos que unam tecnologia, criatividade e segurança digital. Gosto de aprender como sistemas funcionam por dentro, desenvolver páginas e aplicações para a web, explorar boas práticas de proteção de dados e transformar ideias em soluções reais.
 
-Minha estética tem um toque mais *dark/gótico*, mas meu objetivo é bem claro: evoluir como desenvolvedora, construir um portfólio sólido e usar a tecnologia para resolver problemas de forma inteligente.
-
 ---
 
 ## 🧠 Atualmente estudando
@@ -70,13 +68,14 @@ Minha estética tem um toque mais *dark/gótico*, mas meu objetivo é bem claro:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-![Tayla GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayllaefg-netizen&show_icons=true&theme=radical&hide_border=true)
+![Resumo do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tayllaefg-netizen&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=tayllaefg-netizen&layout=compact&theme=radical&hide_border=true)
+![Linguagens por repositório](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tayllaefg-netizen&theme=radical)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tayllaefg-netizen&theme=radical&utcOffset=-3)
 
 </div>
 
@@ -96,7 +95,6 @@ Minha estética tem um toque mais *dark/gótico*, mas meu objetivo é bem claro:
 <div align="center">
 
 ### "Aprendendo, criando e protegendo o mundo digital."
-
 
 
 </div>
