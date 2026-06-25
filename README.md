@@ -86,7 +86,7 @@ Tenho interesse em criar projetos que unam tecnologia, criatividade e segurança
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-tayllaefg--netizen-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tayllaefg-netizen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayla-vit%C3%B3ria-martins-0919b5419?trk=contact-info)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayla-vitória-martins-0919b5419?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 </div>
 
